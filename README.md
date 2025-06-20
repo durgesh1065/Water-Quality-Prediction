@@ -3,7 +3,7 @@
 ##  Dataset
 
 - File: `Water Quality Prediction.csv`
-- Format: CSV (semicolon-separated)
+
 - Parameters include:
   - NH4 (Ammonium)
   - BSK5 (Biochemical Oxygen Demand)
