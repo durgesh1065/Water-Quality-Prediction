@@ -1,14 +1,4 @@
-#  Water Quality Prediction - AICTE Internship Project
-
-This project is part of the AICTE Virtual Internship (June 2025) organized by the Edunet Foundation and sponsored by Shell. The goal is to analyze and understand water quality data using Python and perform predictive modeling in later stages.
-
-
-
-##  Objective
-
-To explore and analyze real-world water quality data, understand feature relationships, and prepare the dataset for building a machine learning model for predicting multiple water quality parameters.
-
----
+#  Water Quality Prediction
 
 ##  Dataset
 
