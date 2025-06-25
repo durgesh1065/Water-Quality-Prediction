@@ -1,6 +1,6 @@
 #  Water Quality Prediction
 
-##  Dataset
+Dataset
 
 - File: `Water Quality Prediction.csv"
 
