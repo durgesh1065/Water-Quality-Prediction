@@ -42,5 +42,5 @@ Dataset
 
 ---
 Model link:
-(PK file)
+(PKL file)
 https://drive.google.com/file/d/1VJbWcnixGmXxB9p5VeSPp74KsJU5XShP/view?usp=sharing
