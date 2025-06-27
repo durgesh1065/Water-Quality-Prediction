@@ -34,7 +34,7 @@ Dataset
   - Converted date formats  
 
 - **Feature Engineering**  
-  - Extracted `year` and `month` from `date`  
+  - Extracted `Year` and `Month` from `Date`  
 
 - **Visualization**  
   - Distribution plots for each parameter  
